@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhanCold I'm a student from China.
+- 👋 Hi, I’m @KhanCold I'm a student from Zhejiang.
 - 👀 I’m interested in algorithms and web applications.
 - 🌱 I’m currently learning VUE.js and ES6
 - 💞️ I’m looking to collaborate on ...

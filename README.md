@@ -4,4 +4,4 @@ I am an M.S. student in Artificial Intelligence at [Zhejiang University](https:/
 
 My research lies at the intersection of **Natural Language Processing**, **Human-Computer Interaction**, and **Data Intelligence**. I am particularly interested in **self-improving LLM agents**, **agentic reinforcement learning**, **long-term coherence**, and **human–AI collaboration**.
 
-🌐 **Personal Homepage:** [khancold.github.io/docs](https://khancold.github.io/docs/#about)
+🌐 **Personal Homepage:** [khancold.github.io](https://khancold.github.io)
